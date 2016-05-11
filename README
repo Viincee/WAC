@@ -1,1 +1,11 @@
-my first
+Mon premier git.
+
+
+//Infos :
+identity name => git config --global user.name "Name";
+identity mail => git config --global user.email "Mail";
+status des fichiers => git status
+lister les branchs => git branch
+cree une branch => git branch nom_de_la_branch
+changer de branch => git checkout nom_de_ma_branch
+premier commit => git add . , git commit -m "nom";
